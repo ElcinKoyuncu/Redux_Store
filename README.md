@@ -13,6 +13,10 @@ This is the homework for Redux Store.
 
 ![Demo](./Assets/demo2.gif)
 
+## Video for the checkout
+
+![Demo](./Assets/demo3.gif)
+
 ## User Story
 
 ```md
