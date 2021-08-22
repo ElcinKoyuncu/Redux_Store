@@ -7,7 +7,7 @@ This is the homework for Redux Store.
 
 ## Video for the signup
 
-![Demo](./assets/image/demo.gif)
+![Demo](./Assets/demo1.gif)
 
 ## User Story
 
